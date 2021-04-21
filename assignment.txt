@@ -1,0 +1,16 @@
+BlackJack: 
+
+You have a dealer, and 2 players: 
+
+There is a playing card deck, (2 decks stacked, total 104 cards). 
+The dealer deals the cards to the players one player at a time. 
+    If the player value goes above 21, bust
+    If the player value is exactly 21, blackjack (2.5x)
+    If the player's value(s) are under 21: 
+        Compare the values of Player1 and Player2, and return who is the winner. 
+
+
+
+Bonus: 
+
+Create a section where you "place a bet" and have a multiplier applied to winning and say, you've won "this" much!
